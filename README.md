@@ -4,6 +4,7 @@
 <a href="https://www.instagram.com/si__eun_s/">
   <img src="https://img.shields.io/badge/instagram-FF4D48?style=flat&logo=Instagram&logoColor=FFFFFF"/>
 </a>
-<a href="https://velog.io/@tlsl13>
+
+<a href="https://velog.io/@tlsl13">
   <img src="https://img.shields.io/badge/Velog-88A81D?style=flat&logo=velog&logoColor=FFFFFF"/>
 </a>
