@@ -1,12 +1,23 @@
-![시은](https://user-images.githubusercontent.com/97720335/204804004-39fe2dd4-17b3-490d-ac8a-a6fcc7b2daf9.png)
 <div align="center">
-  <h2> 🧸 My Contact </h2>
+  <h1>Hello, I'm Sieun 👋🏻</h1>
+  
+  <img src="https://user-images.githubusercontent.com/97720335/230727194-8763a930-fd0d-4360-8bc2-4ac7023706dc.jpg" width=70% />
+            
+  <h3> 🛠️ Teach Stack 🛠️ </h3>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=AmazonAws&logoColor=FFFFFF"/>
+  
+  
+  <h3> 🧸 About Me 🧸 </h3>
   <a href="https://www.instagram.com/si__eun_s/">
-    <img src="https://img.shields.io/badge/Instagram-FF4D48?style=flat&logo=Instagram&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/Instagram-FF4D48?style=flat-square&logo=Instagram&logoColor=FFFFFF"/>
   </a>
 
   <a href="https://velog.io/@tlsl13">
-    <img src="https://img.shields.io/badge/Tech Blog-88A81D?style=flat&logo=velog&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/Tech Blog-88A81D?style=flat-square&logo=velog&logoColor=FFFFFF"/>
   </a>
   <br><br>
 
