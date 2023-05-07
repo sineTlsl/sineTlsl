@@ -20,12 +20,9 @@
   
   
   <h3> 🧸 About Me 🧸 </h3>
-  <a href="https://www.instagram.com/si__eun_s/">
-    <img src="https://img.shields.io/badge/Instagram-FF4D48?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"/>
-  </a>
 
-  <a href="https://velog.io/@tlsl13">
-    <img src="https://img.shields.io/badge/Tech Blog-88A81D?style=for-the-badge&logo=velog&logoColor=FFFFFF"/>
+  <a href="https://sinetlsl.github.io/">
+    <img src="https://img.shields.io/badge/Tech Blog-88A81D?style=for-the-badge&logo=git&logoColor=FFFFFF"/>
   </a>
   <br><br>
 
