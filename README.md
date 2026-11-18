@@ -21,5 +21,4 @@
 
 - **모각그라운드** (2025.04 ~ 2025.08) 화면을 공유하며 함께 공부하는 온라인 스터디 플랫폼 | [Repository](https://github.com/MogakGround/Mogak-Client)
 - **Ticat** (2023.07 ~ 2023.09) 축제 안내 서비스 | [Repository](https://github.com/Butlers-Team/ticat-client)
-- **VBlog** (2023.07 ~ 2023.11) 블로그 · 브이로그 추천 서비스 | [Repository](https://github.com/dmu-most/vblog-client)
 - **매주매주** (2023.04 ~ 2023.05) 주류 픽업 쇼핑몰 | [Repository](https://github.com/codestates-seb/seb43_main_006)
